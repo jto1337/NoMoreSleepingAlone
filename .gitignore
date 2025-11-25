@@ -1,0 +1,7 @@
+# RimWorld mod stuff to ignore
+obj/
+bin/
+*.csproj.user
+*.tmp
+*.log
+*.pdb

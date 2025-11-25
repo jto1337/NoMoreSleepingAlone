@@ -1,0 +1,11 @@
+<ModMetaData>
+  <name>No More Sleeping Alone</name>
+  <author>YourName</author>
+  <packageId>YourName.NoMoreSleepingAlone</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>
+    A simple mod that detects if pawns have the "Sleeping Alone" thought and displays their names in an alert.
+  </description>
+</ModMetaData>
